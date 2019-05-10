@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Filename squareArea.py
+# Filename squareArea.py  Python 计算三角形的面积
 # 已知三边求三角形面积，根据海伦公式
 
 a = float(input('请输入a:'))

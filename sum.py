@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # -*- coding: utf-8 -*-
-# Filename  sum.py
+# Filename  sum.py  Python 数字求和
 # 该实例输入2个数字，求和
 
 

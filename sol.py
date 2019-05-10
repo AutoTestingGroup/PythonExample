@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Filename  sol.py
+# Filename  sol.py  Python 二次方程
 # 二次方程式 ax**2 + bx + c = 0
 # a、b、c 用户提供，为实数，a ≠ 0
 

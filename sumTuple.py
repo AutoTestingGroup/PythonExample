@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Filename sumList.py  Python 计算数组元素之和
+# Filename sumTuple.py  Python 计算数组元素之和
 print('***************** 使用sum *****************')
 # 定义函数，arr 为数组，n 为数组长度，可作为备用参数，这里没有用到
 def _sum(arr, n):
